@@ -216,3 +216,24 @@ export const businessList = [
     ],
   },
 ];
+
+export const categoryList = [
+  { _id: 1, name: `עבודות גבס` },
+  { _id: 2, name: `שיפוצים` },
+  { _id: 3, name: `פירוק אסבסט` },
+  { _id: 4, name: `עבודות גבס` },
+  { _id: 5, name: `שיפוצים` },
+  { _id: 6, name: `פירוק אסבסט` },
+];
+
+export const startProcess = {
+  name: `יוסי`,
+  category: `גבס`,
+  textMsg: `מחפש בעל מקצוע לגבס`,
+  city: "באר שבע",
+  phone: `0526757706`,
+  numberOfBusinesess: 3,
+  preferredDate: `2023-06-01`,
+  budget: 500,
+  additionalDetails: `אני צריך את השירות בשבוע הקרוב`,
+};
