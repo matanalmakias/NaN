@@ -32,6 +32,26 @@ export const businessList = [
       { day: `שישי`, hours: `8:00 - 12:00` },
       { day: `שבת`, hours: `Closed` },
     ],
+    reviews: [
+      {
+        _id: 1,
+        name: `יוסי`,
+        stars: 3,
+        comment: "שירות מעולה",
+      },
+      {
+        _id: 2,
+        name: `דני`,
+        stars: 4,
+        comment: "שירות מעולה",
+      },
+      {
+        _id: 3,
+        name: `חיים`,
+        stars: 5,
+        comment: "שירות מעולה",
+      },
+    ],
   },
   {
     _id: 2,
@@ -65,6 +85,26 @@ export const businessList = [
       { day: `חמישי`, hours: `8:00 - 19:00` },
       { day: `שישי`, hours: `8:00 - 12:00` },
       { day: `שבת`, hours: `Closed` },
+    ],
+    reviews: [
+      {
+        _id: 1,
+        name: `יוסי`,
+        stars: 3,
+        comment: "שירות מעולה",
+      },
+      {
+        _id: 2,
+        name: `דני`,
+        stars: 4,
+        comment: "שירות מעולה",
+      },
+      {
+        _id: 3,
+        name: `חיים`,
+        stars: 5,
+        comment: "שירות מעולה",
+      },
     ],
   },
   {
@@ -100,6 +140,26 @@ export const businessList = [
       { day: `שישי`, hours: `8:00 - 12:00` },
       { day: `שבת`, hours: `Closed` },
     ],
+    reviews: [
+      {
+        _id: 1,
+        name: `יוסי`,
+        stars: 3,
+        comment: "שירות מעולה",
+      },
+      {
+        _id: 2,
+        name: `דני`,
+        stars: 4,
+        comment: "שירות מעולה",
+      },
+      {
+        _id: 3,
+        name: `חיים`,
+        stars: 5,
+        comment: "שירות מעולה",
+      },
+    ],
   },
   {
     _id: 4,
@@ -133,6 +193,26 @@ export const businessList = [
       { day: `חמישי`, hours: `8:00 - 19:00` },
       { day: `שישי`, hours: `8:00 - 12:00` },
       { day: `שבת`, hours: `Closed` },
+    ],
+    reviews: [
+      {
+        _id: 1,
+        name: `יוסי`,
+        stars: 3,
+        comment: "שירות מעולה",
+      },
+      {
+        _id: 2,
+        name: `דני`,
+        stars: 4,
+        comment: "שירות מעולה",
+      },
+      {
+        _id: 3,
+        name: `חיים`,
+        stars: 5,
+        comment: "שירות מעולה",
+      },
     ],
   },
 ];
